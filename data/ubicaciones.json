@@ -1,0 +1,242 @@
+[
+{
+    "id": "2",
+    "nombre": "Tartagal",
+    "seleccionable": "1",
+    "slug": "tartagal",
+    "root_id": "1",
+    "lft": "48",
+    "rgt": "49",
+    "level": "1"
+},
+{
+    "id": "3",
+    "nombre": "Santa Victoria",
+    "seleccionable": "1",
+    "slug": "santa-victoria",
+    "root_id": "1",
+    "lft": "46",
+    "rgt": "47",
+    "level": "1"
+},
+{
+    "id": "4",
+    "nombre": "San Carlos",
+    "seleccionable": "1",
+    "slug": "san-carlos",
+    "root_id": "1",
+    "lft": "44",
+    "rgt": "45",
+    "level": "1"
+},
+{
+    "id": "5",
+    "nombre": "San Antonio de los Cobres",
+    "seleccionable": "1",
+    "slug": "san-antonio-de-los-cobres",
+    "root_id": "1",
+    "lft": "42",
+    "rgt": "43",
+    "level": "1"
+},
+{
+    "id": "6",
+    "nombre": "Salta (Capital)",
+    "seleccionable": "1",
+    "slug": "salta-capital",
+    "root_id": "1",
+    "lft": "40",
+    "rgt": "41",
+    "level": "1"
+},
+{
+    "id": "7",
+    "nombre": "Rosario de Lerma",
+    "seleccionable": "1",
+    "slug": "rosario-de-lerma",
+    "root_id": "1",
+    "lft": "38",
+    "rgt": "39",
+    "level": "1"
+},
+{
+    "id": "8",
+    "nombre": "Rosario de la Frontera",
+    "seleccionable": "1",
+    "slug": "rosario-de-la-frontera",
+    "root_id": "1",
+    "lft": "36",
+    "rgt": "37",
+    "level": "1"
+},
+{
+    "id": "9",
+    "nombre": "Rivadavia",
+    "seleccionable": "1",
+    "slug": "rivadavia",
+    "root_id": "1",
+    "lft": "34",
+    "rgt": "35",
+    "level": "1"
+},
+{
+    "id": "10",
+    "nombre": "Or\u00e1n",
+    "seleccionable": "1",
+    "slug": "oran",
+    "root_id": "1",
+    "lft": "32",
+    "rgt": "33",
+    "level": "1"
+},
+{
+    "id": "11",
+    "nombre": "Molinos",
+    "seleccionable": "1",
+    "slug": "molinos",
+    "root_id": "1",
+    "lft": "30",
+    "rgt": "31",
+    "level": "1"
+},
+{
+    "id": "12",
+    "nombre": "Met\u00e1n",
+    "seleccionable": "1",
+    "slug": "metan",
+    "root_id": "1",
+    "lft": "28",
+    "rgt": "29",
+    "level": "1"
+},
+{
+    "id": "13",
+    "nombre": "La Vi\u00f1a",
+    "seleccionable": "1",
+    "slug": "la-vina",
+    "root_id": "1",
+    "lft": "26",
+    "rgt": "27",
+    "level": "1"
+},
+{
+    "id": "14",
+    "nombre": "La Poma",
+    "seleccionable": "1",
+    "slug": "la-poma",
+    "root_id": "1",
+    "lft": "24",
+    "rgt": "25",
+    "level": "1"
+},
+{
+    "id": "15",
+    "nombre": "La Candelaria",
+    "seleccionable": "1",
+    "slug": "la-candelaria",
+    "root_id": "1",
+    "lft": "22",
+    "rgt": "23",
+    "level": "1"
+},
+{
+    "id": "16",
+    "nombre": "La Caldera",
+    "seleccionable": "1",
+    "slug": "la-caldera",
+    "root_id": "1",
+    "lft": "20",
+    "rgt": "21",
+    "level": "1"
+},
+{
+    "id": "17",
+    "nombre": "Joaqu\u00edn V. Gonz\u00e1lez",
+    "seleccionable": "1",
+    "slug": "joaquin-v-gonzalez",
+    "root_id": "1",
+    "lft": "18",
+    "rgt": "19",
+    "level": "1"
+},
+{
+    "id": "18",
+    "nombre": "Iruya",
+    "seleccionable": "1",
+    "slug": "iruya",
+    "root_id": "1",
+    "lft": "16",
+    "rgt": "17",
+    "level": "1"
+},
+{
+    "id": "19",
+    "nombre": "Guachipas",
+    "seleccionable": "1",
+    "slug": "guachipas",
+    "root_id": "1",
+    "lft": "14",
+    "rgt": "15",
+    "level": "1"
+},
+{
+    "id": "20",
+    "nombre": "Gral G\u00fcemes",
+    "seleccionable": "1",
+    "slug": "gral-gueemes",
+    "root_id": "1",
+    "lft": "12",
+    "rgt": "13",
+    "level": "1"
+},
+{
+    "id": "21",
+    "nombre": "Chicoana",
+    "seleccionable": "1",
+    "slug": "chicoana",
+    "root_id": "1",
+    "lft": "10",
+    "rgt": "11",
+    "level": "1"
+},
+{
+    "id": "22",
+    "nombre": "Cerrillos",
+    "seleccionable": "1",
+    "slug": "cerrillos",
+    "root_id": "1",
+    "lft": "8",
+    "rgt": "9",
+    "level": "1"
+},
+{
+    "id": "23",
+    "nombre": "Cafayate",
+    "seleccionable": "1",
+    "slug": "cafayate",
+    "root_id": "1",
+    "lft": "6",
+    "rgt": "7",
+    "level": "1"
+},
+{
+    "id": "24",
+    "nombre": "Cachi",
+    "seleccionable": "1",
+    "slug": "cachi",
+    "root_id": "1",
+    "lft": "4",
+    "rgt": "5",
+    "level": "1"
+},
+{
+    "id": "25",
+    "nombre": "Anta",
+    "seleccionable": "1",
+    "slug": "anta",
+    "root_id": "1",
+    "lft": "2",
+    "rgt": "3",
+    "level": "1"
+}
+]

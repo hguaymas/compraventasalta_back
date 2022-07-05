@@ -1,0 +1,15 @@
+.idea
+/node_modules
+npm-debug.log
+/public/js
+.env
+/.env
+
+# Elastic Beanstalk Files
+
+.elasticbeanstalk/*
+
+!.elasticbeanstalk/*.cfg.yml
+
+!.elasticbeanstalk/*.global.yml
+
